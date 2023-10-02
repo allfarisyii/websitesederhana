@@ -9,14 +9,14 @@ body{
 .header h1{
  font-size: 40px; 
  margin-left: 20px;
-} 
-.header ul li{
+} .header ul li{
  display: inline-block; 
  margin-left:20px;
 }
-.cover{
- height: 300px;
- background-image: url(C:\Users\PC12\websitesederhana\WebsiteSederhana\Logo_UNIPDU.png)
+
+.cover {
+    height: 300px;
+    background-image: url(WebsiteSederhana\Gambar\Logo_UNIPDU.png);
 }
 .content h1{
  font-size: 30px; 
@@ -27,8 +27,7 @@ body{
 }
 .content p{
  margin-left: 20px;
-} 
-.footer {
+} .footer {
  background-color: red;
  text-align: center; 
  color: white; 
